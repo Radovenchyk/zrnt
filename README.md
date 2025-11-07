@@ -130,7 +130,7 @@ A month later I (@protolambda) started working for the EF,
 
 ## Contact
 
-Core dev: [@protolambda on Twitter](https://twitter.com/protolambda)
+Core dev: [@protolambda on X (Twitter)](https://x.com/protolambda)
 
 ## License
 
